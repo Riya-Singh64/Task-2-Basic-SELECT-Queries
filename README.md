@@ -1,6 +1,4 @@
-# Task-2-Basic-SELECT-Queries
-# Task 3 – Writing Basic SELECT Queries
-
+# Task-3-Basic-SELECT-Queries
 Demonstrates basic SQL queries using SELECT statements.
 
 # Queries Included:
